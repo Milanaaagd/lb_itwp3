@@ -1,0 +1,14 @@
+config/Auth.php
+config/Database.php
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+/vendor/
+composer.lock
+
+.DS_Store
+Thumbs.db
